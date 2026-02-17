@@ -33,8 +33,5 @@ David Knott
 
 ## Supported WoW Versions
 
-- Battle for Azeroth (8.0+)
-- Shadowlands (9.0+)
-- Dragonflight (10.x)
 - The War Within (11.0+)
 - Midnight (12.0+)
