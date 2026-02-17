@@ -1,0 +1,12 @@
+## Interface: 80000,80300,90001,100207,110000,110002,120000,120001
+## X-Min-Interface: 80000
+## Author: David Knott
+## Title: ToDoList
+## Notes: Track daily and weekly todo items across players
+## Version: 1
+## X-Curse-Packaged-Version: 1
+## X-Curse-Project-Name: ToDoList
+
+## SavedVariables: TodoListDB
+
+ToDoList.lua
