@@ -9,15 +9,6 @@ A simple World of Warcraft addon for tracking your daily and weekly to-do items 
 - **Character-Specific Tracking**: Each character can maintain their own to-do list
 - **Persistent Storage**: Your to-dos are automatically saved and restored when you log in
 
-## Default Tasks
-
-### Daily
-- Do World Quests
-- Run a Mythic+
-
-### Weekly (Resets Tuesday)
-- Raid Vault
-- Weekly Dungeon Quest
 
 ## Installation
 
